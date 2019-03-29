@@ -29,5 +29,6 @@
 `12/11/18` | Intro to React with GraphQL | Joshua Poole
 `02/19/19` | SVG Basics | Gregory Douglas | [`(slides)`](https://slides.com/unicode/svg-basics) / [`(video)`](https://vistaprint.zoom.us/recording/play/DcGzAXbHJK5nzkDDAFoKaB6TgxrKa4PepFH-Ns0UxUEvJiGiDlqMDNqXCnibWHov)
 `03/05/19` | Intro to React-16 Hooks | Joshua Poole | [`(slides)`](https://poole.haus/react-hooks)
-`03/19/19` | **React Native : Getting started** | Okechi Onyeje
-`04/02/19` | Introduction to CSS Animations | David Zhu
+`03/19/19` | React Native : Getting started | Okechi Onyeje
+`04/02/19` | **Introduction to CSS Animations** | David Zhu
+`04/16/19` | Intro to Web Components with stencil.js | Christina Kayastha
